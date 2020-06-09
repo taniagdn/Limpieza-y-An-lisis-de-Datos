@@ -1,6 +1,6 @@
 # Práctica de Limpieza y Análisis de Datos
 * Este repositorio es parte de la Práctica 2 de la asignatura: "Tipologia y ciclo de vida de los datos".
-* Master de Data Science.
+* Master en Ciemcia de Datos.
 * Universitat Oberta of Catalunya.
 * Consultora: Mireia Calvo Gonzalez
 
