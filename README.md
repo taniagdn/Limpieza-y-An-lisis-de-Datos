@@ -13,8 +13,8 @@ El conjunto de datos objeto de análisis se ha obtenido a partir de: https://www
 
 # Contenido:  
  
-* scr: Repositorio con el código R.        
-* pdf: Documento de la práctica de limpieza y análisis de datos.         
+* tgualli_fmeza_Pr2.rmd: Archivo con código R.        
+* tgualli_fmeza_Pr2.pdf: Documento de la práctica de limpieza y análisis de datos.         
 * csv: Dataset en formato CSV
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
